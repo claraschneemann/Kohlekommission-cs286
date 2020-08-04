@@ -1,0 +1,18 @@
+Wert,Kommentar
+,
+edgelist,
+from,ID Mitglied der Emmission
+to,"Mitgliedschaften des Mitglieds in pol. Parteien, Unternehmen, Verbänden, Vereinen etc."
+,
+nodelist,
+name,Name oder Bezeichnung des Knotens
+id,"eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird"
+type,definiert ob es sich um eine Person oder eine Organisation handelt
+sex,definiert Geschlecht des Mitglieds
+age,definiert Alter des Mitglieds im Jahr der Einsetzung der Kohlekommission 2018
+party,definiert letztaktuelle Parteizugehörigkeit des Mitglieds
+representation,definiert Funktion innerhalb der Kommission
+position,"definiert Position innerhalb der Kommission (Vorstand, mit Stimmrecht, ohne Stimmrecht)"
+state,definiert zughöriges Bundesland des Mitglieds als politischer/regionaler Repräsentant
+,
+NA bzw. 99,definiert fehlende Werte
