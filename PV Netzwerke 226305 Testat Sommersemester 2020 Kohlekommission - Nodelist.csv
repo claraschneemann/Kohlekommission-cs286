@@ -1,0 +1,104 @@
+id,name,type,sex,age,party,representation,position,state
+PlatzeckM,Matthias Platzeck,0,0,4,1,0,0,3
+PofallaR,Ronald Pofalla,0,0,4,0,0,0,9
+PraetoriusB,Prof. Barbara Praetorius,0,1,4,99,1,0,99
+TillichS,Stanislaw Tillich,0,0,4,0,0,0,12
+AllmendingerJ,Prof. Dr. h.c. Jutta Allmendinger,0,1,5,1,5,1,99
+GrothusA,Antje Grothus,0,1,4,99,4,1,9
+HasselfeldtG,Gerda Hasselfeldt,0,1,5,0,0,1,1
+HerntierC,Christine Herntier,0,1,5,6,4,1,3
+KaiserM,Martin Kaiser,0,0,4,99,3,1,99
+KampeterS,Steffen Kampeter,0,0,4,0,1,1,99
+KapfererS,Stefan Kapferer,0,0,4,3,1,1,99
+KempfD,Prof. Dieter Kempf,0,0,5,99,1,1,99
+KoerzellS,Stefan Körzell,0,0,4,1,2,1,99
+KreuzbergM,Michael Kreuzberg,0,0,5,0,4,1,9
+MatthesF,Dr. Felix Matthes,0,0,4,99,5,1,99
+NematC,Claudia Nemat,0,1,3,99,1,1,99
+NiebertK,Prof. Dr. Kai Niebert,0,0,2,99,3,1,99
+NiebuhrA,Prof. Dr. Annekatrin Niebuhr,0,1,4,99,5,1,99
+PriggenR,Reiner Priggen,0,0,5,2,4,1,9
+ReicheK,Katherina Reiche,0,1,3,0,1,1,99
+RoestelG,Gunda Röstel,0,1,4,2,1,1,99
+ScheidtA,Andreas Scheidt,0,0,4,1,2,1,99
+SchellnhuberH,Prof. Dr. Hans Joachim Schellnhuber,0,0,5,99,5,1,99
+SchweitzerE,Dr. Eric Schweitzer,0,0,4,3,1,1,99
+VassiliadisM,Michael Vassiliadis,0,0,4,1,2,1,99
+WehrspohnR,Prof. Dr. Ralf Wehrspohn,0,0,3,99,5,1,99
+WeigerH,Hubert Weiger,0,0,6,99,3,1,99
+WodtkeH,Hannelore Wodtke,0,1,5,0,4,1,3
+LaemmelA,Andreas G. Lämmel,0,0,4,1,0,2,12
+LenzA,Dr. Andreas Lenz,0,0,2,1,0,2,1
+MierschM,Dr. Matthias Miersch,0,0,3,1,0,2,8
+Kohlekommission,Kohlekommission,1,99,99,99,99,99,99
+DeutschRussischesForum,Deutsch-Russisches Forum e.V.,1,99,99,99,99,99,99
+SPD,SPD,1,99,99,99,99,99,99
+ZDFVerwaltungsrat,ZDF-Verwaltungsrat,1,99,99,99,99,99,99
+FlughafenBerlinBrandenburg,Flughafen Berlin Brandenburg GmbH,1,99,99,99,99,99,99
+DB,Deutsche Bahn AG,1,99,99,99,99,99,99
+CDU,CDU,1,99,99,99,99,99,99
+Straßenkinder,Straßenkinder e.V.,1,99,99,99,99,99,99
+HochschuleRheinWaal,Hochschule Rhein-Waal,1,99,99,99,99,99,99
+HochschuleTWBerlin,Hochschule für Technik und Wirtschaft Berlin,1,99,99,99,99,99,99
+MIBRAG,MIBRAG,1,99,99,99,99,99,99
+Volga,Volga-DNEPR,1,99,99,99,99,99,99
+Rotary,Rotary-Club,1,99,99,99,99,99,99
+WissenschaftszentrumBerlinSozial,Wissenschaftszentrum Berlin für Sozialforschung,1,99,99,99,99,99,99
+FreieUniversitaetBerlin,Freie Universität Berlin,1,99,99,99,99,99,99
+AkademiederWissenschaftenBERBR,Berlin-Brandenburgische Akademie der Wissenschaften,1,99,99,99,99,99,99
+BayerischeAkademieWissenschaften,Bayerische Akademie der Wissenschaften,1,99,99,99,99,99,99
+Leopoldina,Leopoldina,1,99,99,99,99,99,99
+Acatech,Acatech,1,99,99,99,99,99,99
+StiftungBildung,Stiftung Bildung,1,99,99,99,99,99,99
+sdw,Stiftung der Deutschen Wirtschaft,1,99,99,99,99,99,99
+GoetheInstitut,Goethe-Institut,1,99,99,99,99,99,99
+BSR,Berliner Stadtreinigung,1,99,99,99,99,99,99
+Zeit,Die Zeit,1,99,99,99,99,99,99
+KlimaAllianz,Klima-Allianz Deutschland,1,99,99,99,99,99,99
+CSU,CSU,1,99,99,99,99,99,99
+DRK,Deutsches Rotes Kreuz,1,99,99,99,99,99,99
+Greenpeace,Greenpeace Deutschland e.V.,1,99,99,99,99,99,99
+BDA,Bundesvereinigung der Deutschen Arbeitgeberverbände,1,99,99,99,99,99,99
+Arbeitsagentur,Bundesagentur für Arbeit,1,99,99,99,99,99,99
+FDP,FDP,1,99,99,99,99,99,99
+BVEnergieundWasser,Bundesverband der Energie- und Wasserwirtschaft,1,99,99,99,99,99,99
+50Hertz,50Hertz Transmission,1,99,99,99,99,99,99
+BDI,Bundesverband der Deutschen Industrie,1,99,99,99,99,99,99
+DeutscheMesse,Deutsche Messe AG,1,99,99,99,99,99,99
+GfK,GfK Marktforschung,1,99,99,99,99,99,99
+DGB,Deutscher Gewerkschaftsbund,1,99,99,99,99,99,99
+HR,Hessischer Rundfunk,1,99,99,99,99,99,99
+SparkasseKoeln,Kreissparkasse Köln,1,99,99,99,99,99,99
+MetropoleRheinland,Metropolregion Rheinland e.V.,1,99,99,99,99,99,99
+NaturRheinland,Naturpark Rheinland,1,99,99,99,99,99,99
+OekoInstitut,Öko-Institut e.V.,1,99,99,99,99,99,99
+Telekom,Deutsche Telekom,1,99,99,99,99,99,99
+Airbus,Airbus SE,1,99,99,99,99,99,99
+UniZuerich,Universität Zürich,1,99,99,99,99,99,99
+DBU,Deutsche Bundesstiftung Umwelt,1,99,99,99,99,99,99
+AlbrechtsUniKiel,Christian-Albrechts-Universität Kiel,1,99,99,99,99,99,99
+IAB,Institut für Arbeitsmarkt- und Berufsforschung,1,99,99,99,99,99,99
+Gruene,Bündnis 90/Die Grünen,1,99,99,99,99,99,99
+LVEnergienNRW,Landesverband Erneuerbare Energien NRW,1,99,99,99,99,99,99
+VKU,Verband Kommunaler Unternehmen,1,99,99,99,99,99,99
+EON,E.ON SE,1,99,99,99,99,99,99
+GelsenwasserAG,Gelsenwasser AG,1,99,99,99,99,99,99
+DresdenGmbH,Dresden GmbH,1,99,99,99,99,99,99
+EnBW,Energie Baden-Württemberg,1,99,99,99,99,99,99
+Verdi,Vereinte Dienstleistungsgesellschaft,1,99,99,99,99,99,99
+PIK,Potsdamer Institut für Klimafolgenforschung,1,99,99,99,99,99,99
+ALBA,ALBA Group,1,99,99,99,99,99,99
+IHK,Industrie- und Handelskammer,1,99,99,99,99,99,99
+IGBCE,"Industriegewerkschaft Bergbau, Chemie, Energie",1,99,99,99,99,99,99
+Evonik,Evonik Steag GmbH,1,99,99,99,99,99,99
+KommissionEnergieversorgung,Ethikkommission für sichere Energieversorgung,1,99,99,99,99,99,99
+BASF,BASF,1,99,99,99,99,99,99
+FraunhoferGesellschaft,Fraunhofer-Gesellschaft e.V.,1,99,99,99,99,99,99
+LutherUniversitaetWittenberg,Martin-Luther-Universität Halle-Wittenberg,1,99,99,99,99,99,99
+BUND,Bund für Umwelt und Naturschutz e.V.,1,99,99,99,99,99,99
+BR,Bayerischer Rundfunk,1,99,99,99,99,99,99
+RNE,Rat für Nachhaltige Entwicklung,1,99,99,99,99,99,99
+VDW,Vereinigung Deutscher Wissenschaftler,1,99,99,99,99,99,99
+DeutscheGesellschaft,Deutsche Gesellschaft e.V.,1,99,99,99,99,99,99
+AWE,Ausschuss für Wirtschaft und Energie,1,99,99,99,99,99,99
+PBNE,Parlamentarischer Beirat für nachhaltige Entwicklung,1,99,99,99,99,99,99
